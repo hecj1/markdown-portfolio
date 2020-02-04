@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**I am James, therefore I am awesome!**
+*Also me: I was made to be Awesome not Perfect.*
